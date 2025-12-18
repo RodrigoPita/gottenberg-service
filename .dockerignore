@@ -1,0 +1,6 @@
+# Exclude test files and documentation from Docker build
+README.md
+index.html
+*.pdf
+.git
+.gitignore
